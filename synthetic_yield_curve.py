@@ -10,6 +10,7 @@ Yields are then obtained by cumulatively summing the changes.
 
 Rates are represented as decimals (0.04 means 4%). Volatility parameters are
 annualised and expressed in basis points.
+
 """
 
 from __future__ import annotations
